@@ -1,4 +1,4 @@
-import gsap from 'gsap';
+const gsap = window.gsap;
 
 gsap.registerPlugin({
   name: 'drawn',
