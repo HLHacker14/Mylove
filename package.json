@@ -7,12 +7,12 @@
   "author": "saklincodes",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saklincodes/Birthday-Gift.git"
+    "url": "git+https://github.com/HLHacker14/Gift.git"
   },
   "bugs": {
-    "url": "https://github.com/saklincodes/Birthday-Gift/issues"
+    "url": "https://github.com/HLHacker14/Gift.git/issues"
   },
-  "homepage": "https://github.com/saklincodes/Birthday-Gift#readme",
+  "homepage": "https://github.com/HLHacker14/Gift.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
