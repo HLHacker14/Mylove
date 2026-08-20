@@ -18,7 +18,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/HLHacker14/Gift.git.git
+   git clone  https://github.com/HLHacker14/Mylove.git
    cd Birthday-Gift
    ```
 
@@ -48,3 +48,4 @@ Make sure you have [Node.js](https://nodejs.org/) installed.
 ## 📝 Author
 
 Created by [HLHacker14](https://github.com/HLHacker14).
+
